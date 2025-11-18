@@ -1,0 +1,4 @@
+services:
+  cloudflared-easy:
+    image: eclarift/cloudflared-easy:latest
+    build: .

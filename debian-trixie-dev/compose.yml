@@ -1,0 +1,4 @@
+services:
+  debian-trixie-dev:
+    image: eclarift/debian-trixie-dev:latest
+    build: .
