@@ -1,0 +1,4 @@
+services:
+  cloudflared-dev:
+    image: eclarift/cloudflared-dev:latest
+    build: .
